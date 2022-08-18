@@ -25,6 +25,7 @@
 <a href="https://www.instagram.com/jucineibelo/" rel="nofollow"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
 </div>
 
+<img src="https://raw.githubusercontent.com/dantonbertuol/dantonbertuol/bc02c27e4cf9e674c94ee98bf114eaee793fcd6f/github-contribution-grid-snake.svg">
 
 
           
