@@ -1,8 +1,7 @@
-## Olá! Sou o Jucinei Luiz Belo
+## Hello! I am Jucinei Luiz Belo
 
-- 🔭 Hoje trabalho como Suporte Técnico 
-- 🌱 Estudando Python e Java POO
-- 😄 Pronouns: ele/dele
+- 🔭 Today my job is support technician
+- 🌱 Studdying HTML 5, CSS3 Python and Java
 
 <div>
 <a href="https://github.com/jucineibelo">
