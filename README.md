@@ -1,7 +1,7 @@
 ## Hello! I am Jucinei Luiz Belo
 
 - 🔭 Today my job is support technician
-- 🌱 Studdying HTML 5, CSS3 Python and Java
+- 🌱 Studdying HTML 5, CSS3, JS, Python and Java
 
 <div>
 <a href="https://github.com/jucineibelo">
